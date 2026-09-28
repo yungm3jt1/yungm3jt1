@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yungm3jt1/yungm3jt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `m3jt1.pl`
 
-Here are some ideas to get you started:
+**I build things that probably didn't need to exist — but now I'm glad they do.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`full-stack` · `systems` · `weird ideas turned into code`
+
+<br>
+
+### currently building
+
+🎓 **CodEdu** — making programming easier to learn  
+🧠 **POL** — because apparently I needed my own programming language  
+
+<br>
+
+```txt
+TypeScript   React   Next.js   Node.js
+Python       Go      C/C++     Docker
+Linux        SQL     Git       caffeine
+```
+
+<br>
+
+**build → break → understand → rebuild better**
+
+[ portfolio ] · [ linkedin ] · [ contact ]
+
+</div>
