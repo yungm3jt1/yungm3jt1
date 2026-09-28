@@ -1,30 +1,49 @@
 <div align="center">
 
-# `m3jt1.pl`
+# `m3jt1@github:~$`
 
-**I build things that probably didn't need to exist — but now I'm glad they do.**
+</div>
 
-`full-stack` · `systems` · `weird ideas turned into code`
+```bash
+m3jt1@github:~$ whoami
 
-<br>
-
-### currently building
-
-🎓 **CodEdu** — making programming easier to learn  
-🧠 **POL** — because apparently I needed my own programming language  
-
-<br>
-
-```txt
-TypeScript   React   Next.js   Node.js
-Python       Go      C/C++     Docker
-Linux        SQL     Git       caffeine
+Mateusz
+Full-Stack Developer
+I turn weird ideas into working software.
 ```
 
-<br>
+```bash
+m3jt1@github:~$ cat currently-building.md
 
-**build → break → understand → rebuild better**
+🎓 CodeDu   → making programming easier to learn
+🧠 POL      → because apparently I needed my own programming language
+🚗 Jarvis   → turning a car into a computer
+```
 
-[ portfolio ] · [ linkedin ] · [ contact ]
+```bash
+m3jt1@github:~$ cat stack.txt
+
+TypeScript   React    Next.js   Node.js
+Python       Go       C/C++     Docker
+Linux        SQL      Git       caffeine
+```
+
+```bash
+m3jt1@github:~$ cat philosophy.txt
+
+build → break → understand → rebuild better
+```
+
+<div align="center">
+
+<a href="https://m3jt1.pl">[ portfolio ]</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://linkedin.com/in/imnotlinked">[ linkedin ]</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:contact@m3jt1.pl">[ contact ]</a>
+
+<br><br>
+
+`m3jt1@github:~$ _`
 
 </div>
