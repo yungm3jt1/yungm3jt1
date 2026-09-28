@@ -15,7 +15,7 @@ I turn weird ideas into working software.
 ```bash
 m3jt1@github:~$ cat currently-building.md
 
-🎓 CodeDu   → making programming easier to learn
+🎓 CodEdu   → making programming easier to learn
 🧠 POL      → because apparently I needed my own programming language
 🚗 Jarvis   → turning a car into a computer
 ```
