@@ -185,32 +185,7 @@
     build - break - understand - rebuild better
   </text>
 
-  <!-- block 5 -->
-  <text
-    x="32"
-    y="538"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
-    font-size="16"
-  >
-    <tspan fill="#7EE787">m3jt1@github</tspan>
-    <tspan fill="#C9D1D9">:</tspan>
-    <tspan fill="#79C0FF">~</tspan>
-    <tspan fill="#C9D1D9">$ </tspan>
-    <tspan fill="#D2A8FF">ls</tspan>
-    <tspan fill="#C9D1D9"> links/</tspan>
-  </text>
-
-  <text
-    x="32"
-    y="572"
-    fill="#79C0FF"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
-    font-size="15"
-  >
-    portfolio    linkedin    contact
-  </text>
-
-  <!-- final prompt -->
+ <!-- final prompt -->
   <text
     x="32"
     y="612"
