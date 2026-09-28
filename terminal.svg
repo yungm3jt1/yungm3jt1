@@ -1,0 +1,237 @@
+<svg
+  width="920"
+  height="640"
+  viewBox="0 0 920 640"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">m3jt1 GitHub terminal</title>
+  <desc id="desc">A terminal-style GitHub profile card for Mateusz.</desc>
+
+  <!-- background -->
+  <rect width="920" height="640" rx="16" fill="#0D1117"/>
+
+  <!-- top bar -->
+  <rect x="0" y="0" width="920" height="46" rx="16" fill="#161B22"/>
+  <rect x="0" y="30" width="920" height="16" fill="#161B22"/>
+
+  <!-- macOS-style controls -->
+  <circle cx="24" cy="23" r="6" fill="#FF5F56"/>
+  <circle cx="44" cy="23" r="6" fill="#FFBD2E"/>
+  <circle cx="64" cy="23" r="6" fill="#27C93F"/>
+
+  <!-- title -->
+  <text
+    x="460"
+    y="28"
+    text-anchor="middle"
+    fill="#8B949E"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="13"
+  >
+    m3jt1@github: ~
+  </text>
+
+  <!-- block 1 -->
+  <text
+    x="32"
+    y="84"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="16"
+  >
+    <tspan fill="#7EE787">m3jt1@github</tspan>
+    <tspan fill="#C9D1D9">:</tspan>
+    <tspan fill="#79C0FF">~</tspan>
+    <tspan fill="#C9D1D9">$ </tspan>
+    <tspan fill="#D2A8FF">whoami</tspan>
+  </text>
+
+  <text
+    x="32"
+    y="116"
+    fill="#C9D1D9"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="15"
+  >
+    Mateusz
+  </text>
+
+  <text
+    x="32"
+    y="140"
+    fill="#C9D1D9"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="15"
+  >
+    Full-Stack Developer
+  </text>
+
+  <text
+    x="32"
+    y="164"
+    fill="#8B949E"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="15"
+  >
+    I turn weird ideas into working software.
+  </text>
+
+  <!-- block 2 -->
+  <text
+    x="32"
+    y="214"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="16"
+  >
+    <tspan fill="#7EE787">m3jt1@github</tspan>
+    <tspan fill="#C9D1D9">:</tspan>
+    <tspan fill="#79C0FF">~</tspan>
+    <tspan fill="#C9D1D9">$ </tspan>
+    <tspan fill="#D2A8FF">cat</tspan>
+    <tspan fill="#C9D1D9"> currently-building.md</tspan>
+  </text>
+
+  <text
+    x="32"
+    y="248"
+    fill="#C9D1D9"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="15"
+  >
+    <tspan fill="#FFA657">CodeDu</tspan>
+    <tspan fill="#8B949E">   - making programming easier to learn</tspan>
+  </text>
+
+  <text
+    x="32"
+    y="272"
+    fill="#C9D1D9"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="15"
+  >
+    <tspan fill="#FFA657">POL</tspan>
+    <tspan fill="#8B949E">      - because apparently I needed my own programming language</tspan>
+  </text>
+
+  <!-- block 3 -->
+  <text
+    x="32"
+    y="322"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="16"
+  >
+    <tspan fill="#7EE787">m3jt1@github</tspan>
+    <tspan fill="#C9D1D9">:</tspan>
+    <tspan fill="#79C0FF">~</tspan>
+    <tspan fill="#C9D1D9">$ </tspan>
+    <tspan fill="#D2A8FF">cat</tspan>
+    <tspan fill="#C9D1D9"> stack.txt</tspan>
+  </text>
+
+  <text
+    x="32"
+    y="356"
+    fill="#C9D1D9"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="15"
+  >
+    TypeScript   React      Next.js    Node.js
+  </text>
+
+  <text
+    x="32"
+    y="380"
+    fill="#C9D1D9"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="15"
+  >
+    Python       Go         C/C++      Docker
+  </text>
+
+  <text
+    x="32"
+    y="404"
+    fill="#C9D1D9"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="15"
+  >
+    Linux        SQL        Git        caffeine
+  </text>
+
+  <!-- block 4 -->
+  <text
+    x="32"
+    y="454"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="16"
+  >
+    <tspan fill="#7EE787">m3jt1@github</tspan>
+    <tspan fill="#C9D1D9">:</tspan>
+    <tspan fill="#79C0FF">~</tspan>
+    <tspan fill="#C9D1D9">$ </tspan>
+    <tspan fill="#D2A8FF">cat</tspan>
+    <tspan fill="#C9D1D9"> philosophy.txt</tspan>
+  </text>
+
+  <text
+    x="32"
+    y="488"
+    fill="#C9D1D9"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="15"
+  >
+    build - break - understand - rebuild better
+  </text>
+
+  <!-- block 5 -->
+  <text
+    x="32"
+    y="538"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="16"
+  >
+    <tspan fill="#7EE787">m3jt1@github</tspan>
+    <tspan fill="#C9D1D9">:</tspan>
+    <tspan fill="#79C0FF">~</tspan>
+    <tspan fill="#C9D1D9">$ </tspan>
+    <tspan fill="#D2A8FF">ls</tspan>
+    <tspan fill="#C9D1D9"> links/</tspan>
+  </text>
+
+  <text
+    x="32"
+    y="572"
+    fill="#79C0FF"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="15"
+  >
+    portfolio    linkedin    contact
+  </text>
+
+  <!-- final prompt -->
+  <text
+    x="32"
+    y="612"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-size="16"
+  >
+    <tspan fill="#7EE787">m3jt1@github</tspan>
+    <tspan fill="#C9D1D9">:</tspan>
+    <tspan fill="#79C0FF">~</tspan>
+    <tspan fill="#C9D1D9">$ </tspan>
+  </text>
+
+  <!-- blinking cursor -->
+  <rect x="192" y="598" width="10" height="18" fill="#C9D1D9">
+    <animate
+      attributeName="visibility"
+      values="visible;hidden;visible"
+      keyTimes="0;0.5;1"
+      dur="1s"
+      repeatCount="indefinite"
+      calcMode="discrete"
+    />
+  </rect>
+</svg>
