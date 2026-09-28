@@ -1,44 +1,46 @@
 <svg
   width="920"
-  height="640"
-  viewBox="0 0 920 640"
+  height="610"
+  viewBox="0 0 920 610"
   fill="none"
   xmlns="http://www.w3.org/2000/svg"
   role="img"
-  aria-labelledby="title desc"
+  aria-label="m3jt1 terminal"
 >
-  <title id="title">m3jt1 GitHub terminal</title>
-  <desc id="desc">A terminal-style GitHub profile card for Mateusz.</desc>
 
   <!-- background -->
-  <rect width="920" height="640" rx="16" fill="#0D1117"/>
+  <rect width="920" height="610" rx="14" fill="#0D1117"/>
 
   <!-- top bar -->
-  <rect x="0" y="0" width="920" height="46" rx="16" fill="#161B22"/>
-  <rect x="0" y="30" width="920" height="16" fill="#161B22"/>
+  <rect x="0" y="0" width="920" height="44" rx="14" fill="#161B22"/>
+  <rect x="0" y="28" width="920" height="16" fill="#161B22"/>
 
-  <!-- macOS-style controls -->
-  <circle cx="24" cy="23" r="6" fill="#FF5F56"/>
-  <circle cx="44" cy="23" r="6" fill="#FFBD2E"/>
-  <circle cx="64" cy="23" r="6" fill="#27C93F"/>
+  <!-- window controls -->
+  <circle cx="24" cy="22" r="6" fill="#FF5F56"/>
+  <circle cx="44" cy="22" r="6" fill="#FFBD2E"/>
+  <circle cx="64" cy="22" r="6" fill="#27C93F"/>
 
   <!-- title -->
   <text
     x="460"
-    y="28"
+    y="27"
     text-anchor="middle"
     fill="#8B949E"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-family="'Courier New', Courier, monospace"
     font-size="13"
   >
     m3jt1@github: ~
   </text>
 
-  <!-- block 1 -->
+
+  <!-- ===================================================== -->
+  <!-- WHOAMI -->
+  <!-- ===================================================== -->
+
   <text
     x="32"
-    y="84"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    y="78"
+    font-family="'Courier New', Courier, monospace"
     font-size="16"
   >
     <tspan fill="#7EE787">m3jt1@github</tspan>
@@ -48,41 +50,147 @@
     <tspan fill="#D2A8FF">whoami</tspan>
   </text>
 
-  <text
-    x="32"
-    y="116"
-    fill="#C9D1D9"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
-    font-size="15"
-  >
-    Mateusz
-  </text>
+  <!--
+      Każdy wiersz tabeli ma dokładnie 98 znaków.
+      Cały ASCII jest renderowany jako JEDEN text,
+      więc | zawsze wypada dokładnie pod +.
+  -->
 
+  <!-- top -->
   <text
     x="32"
-    y="140"
-    fill="#C9D1D9"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
-    font-size="15"
-  >
-    Full-Stack Developer
-  </text>
+    y="110"
+    fill="#30363D"
+    font-family="'Courier New', Courier, monospace"
+    font-size="14"
+    xml:space="preserve"
+  >+-------+----------------------------------------------------------------------------------------+</text>
 
+  <!-- user base -->
   <text
     x="32"
-    y="164"
+    y="132"
+    fill="#30363D"
+    font-family="'Courier New', Courier, monospace"
+    font-size="14"
+    xml:space="preserve"
+  >| user  | m3jt1                                                                                  |</text>
+
+  <!-- user colors -->
+  <text
+    x="48.8"
+    y="132"
     fill="#8B949E"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
-    font-size="15"
-  >
-    I turn weird ideas into working software.
-  </text>
+    font-family="'Courier New', Courier, monospace"
+    font-size="14"
+  >user</text>
 
-  <!-- block 2 -->
+  <text
+    x="116"
+    y="132"
+    fill="#7EE787"
+    font-family="'Courier New', Courier, monospace"
+    font-size="14"
+  >m3jt1</text>
+
+
+  <!-- separator -->
   <text
     x="32"
-    y="214"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    y="154"
+    fill="#30363D"
+    font-family="'Courier New', Courier, monospace"
+    font-size="14"
+    xml:space="preserve"
+  >+-------+----------------------------------------------------------------------------------------+</text>
+
+
+  <!-- role base -->
+  <text
+    x="32"
+    y="176"
+    fill="#30363D"
+    font-family="'Courier New', Courier, monospace"
+    font-size="14"
+    xml:space="preserve"
+  >| role  | Full-Stack Developer                                                                   |</text>
+
+  <!-- role colors -->
+  <text
+    x="48.8"
+    y="176"
+    fill="#8B949E"
+    font-family="'Courier New', Courier, monospace"
+    font-size="14"
+  >role</text>
+
+  <text
+    x="116"
+    y="176"
+    fill="#79C0FF"
+    font-family="'Courier New', Courier, monospace"
+    font-size="14"
+  >Full-Stack Developer</text>
+
+
+  <!-- separator -->
+  <text
+    x="32"
+    y="198"
+    fill="#30363D"
+    font-family="'Courier New', Courier, monospace"
+    font-size="14"
+    xml:space="preserve"
+  >+-------+----------------------------------------------------------------------------------------+</text>
+
+
+  <!-- about base -->
+  <text
+    x="32"
+    y="220"
+    fill="#30363D"
+    font-family="'Courier New', Courier, monospace"
+    font-size="14"
+    xml:space="preserve"
+  >| about | I turn weird ideas into working software.                                              |</text>
+
+  <!-- about colors -->
+  <text
+    x="48.8"
+    y="220"
+    fill="#8B949E"
+    font-family="'Courier New', Courier, monospace"
+    font-size="14"
+  >about</text>
+
+  <text
+    x="116"
+    y="220"
+    fill="#C9D1D9"
+    font-family="'Courier New', Courier, monospace"
+    font-size="14"
+  >I turn weird ideas into working software.</text>
+
+
+  <!-- bottom -->
+  <text
+    x="32"
+    y="242"
+    fill="#30363D"
+    font-family="'Courier New', Courier, monospace"
+    font-size="14"
+    xml:space="preserve"
+  >+-------+----------------------------------------------------------------------------------------+</text>
+
+
+  <!-- ===================================================== -->
+  <!-- CURRENTLY BUILDING -->
+  <!-- ===================================================== -->
+
+  <text
+    x="32"
+    y="292"
+    font-family="'Courier New', Courier, monospace"
     font-size="16"
   >
     <tspan fill="#7EE787">m3jt1@github</tspan>
@@ -95,31 +203,35 @@
 
   <text
     x="32"
-    y="248"
-    fill="#C9D1D9"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    y="326"
+    font-family="'Courier New', Courier, monospace"
     font-size="15"
   >
     <tspan fill="#FFA657">CodEdu</tspan>
-    <tspan fill="#8B949E">   - making programming easier to learn</tspan>
+    <tspan fill="#8B949E"> → </tspan>
+    <tspan fill="#C9D1D9">making programming easier to learn</tspan>
   </text>
 
   <text
     x="32"
-    y="272"
-    fill="#C9D1D9"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    y="352"
+    font-family="'Courier New', Courier, monospace"
     font-size="15"
   >
     <tspan fill="#FFA657">POL</tspan>
-    <tspan fill="#8B949E">      - because apparently I needed my own programming language</tspan>
+    <tspan fill="#8B949E"> → </tspan>
+    <tspan fill="#C9D1D9">because apparently I needed my own programming language</tspan>
   </text>
 
-  <!-- block 3 -->
+
+  <!-- ===================================================== -->
+  <!-- STACK -->
+  <!-- ===================================================== -->
+
   <text
     x="32"
-    y="322"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    y="402"
+    font-family="'Courier New', Courier, monospace"
     font-size="16"
   >
     <tspan fill="#7EE787">m3jt1@github</tspan>
@@ -132,39 +244,40 @@
 
   <text
     x="32"
-    y="356"
+    y="436"
     fill="#C9D1D9"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-family="'Courier New', Courier, monospace"
     font-size="15"
-  >
-    TypeScript   React      Next.js    Node.js
-  </text>
+    xml:space="preserve"
+  >TypeScript   React      Next.js    Node.js</text>
 
   <text
     x="32"
-    y="380"
+    y="462"
     fill="#C9D1D9"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-family="'Courier New', Courier, monospace"
     font-size="15"
-  >
-    Python       Go         C/C++      Docker
-  </text>
+    xml:space="preserve"
+  >Python       Go         C/C++      Docker</text>
 
   <text
     x="32"
-    y="404"
+    y="488"
     fill="#C9D1D9"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-family="'Courier New', Courier, monospace"
     font-size="15"
-  >
-    Linux        SQL        Git        caffeine
-  </text>
+    xml:space="preserve"
+  >Linux        SQL        Git        caffeine</text>
 
-  <!-- block 4 -->
+
+  <!-- ===================================================== -->
+  <!-- PHILOSOPHY -->
+  <!-- ===================================================== -->
+
   <text
     x="32"
-    y="454"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    y="538"
+    font-family="'Courier New', Courier, monospace"
     font-size="16"
   >
     <tspan fill="#7EE787">m3jt1@github</tspan>
@@ -177,19 +290,23 @@
 
   <text
     x="32"
-    y="488"
+    y="572"
     fill="#C9D1D9"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    font-family="'Courier New', Courier, monospace"
     font-size="15"
   >
-    build - break - understand - rebuild better
+    build → break → understand → rebuild better
   </text>
 
- <!-- final prompt -->
+
+  <!-- ===================================================== -->
+  <!-- FINAL PROMPT -->
+  <!-- ===================================================== -->
+
   <text
     x="32"
-    y="612"
-    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace"
+    y="600"
+    font-family="'Courier New', Courier, monospace"
     font-size="16"
   >
     <tspan fill="#7EE787">m3jt1@github</tspan>
@@ -198,15 +315,22 @@
     <tspan fill="#C9D1D9">$ </tspan>
   </text>
 
-  <!-- blinking cursor -->
-  <rect x="192" y="598" width="10" height="18" fill="#C9D1D9">
+  <!-- hard ON/OFF blinking cursor -->
+  <rect
+    x="194"
+    y="586"
+    width="9"
+    height="18"
+    fill="#C9D1D9"
+  >
     <animate
       attributeName="visibility"
-      values="visible;hidden;visible"
-      keyTimes="0;0.5;1"
+      values="visible;hidden"
+      keyTimes="0;0.5"
       dur="1s"
       repeatCount="indefinite"
       calcMode="discrete"
     />
   </rect>
+
 </svg>
